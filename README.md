@@ -1,7 +1,7 @@
 ### Привет!
 Я Эдуард Кудланов, тестировщик ПО
 ### Вот что я умею
-* Java, [Дипломная работа](#https://github.com/Eduardokud/dip)
+* Java, Дипломная работа(#https://github.com/Eduardokud/dip)
 
 <!--
 **Eduardokud/Eduardokud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
