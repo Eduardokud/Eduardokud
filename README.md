@@ -2,6 +2,8 @@
 Я Эдуард Кудланов, тестировщик ПО
 ### Вот что я умею
 * Java, [дипломная работа](https://github.com/Eduardokud/dip)
+* [Програмирование на Java](https://github.com/stars/Eduardokud/lists/javadz)
+* [Автоматизация на Java](https://github.com/stars/Eduardokud/lists/auto)
 
 <!--
 **Eduardokud/Eduardokud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
