@@ -4,7 +4,7 @@
 * Java, [дипломная работа](https://github.com/Eduardokud/dip)
 * [Програмирование на Java](https://github.com/stars/Eduardokud/lists/javadz)
 * [Автоматизация на Java](https://github.com/stars/Eduardokud/lists/auto)
-### Свидетельства нетологии
+### Сертификаты Нетологии
 * [Ручное тестирование веб-приложений](https://netology.ru/sharing/98767c55664f2a2c91c0ca5185d9518d?utm_source=social&utm_campaign=achievements)
 * [Git](https://netology.ru/sharing/367f9748b37f3b0e41537864c8d57b93?utm_source=social&utm_campaign=achievements)
 * [Java для тестировщиков](https://netology.ru/sharing/a65fea5b1b0c3fa3a37c2471d3dbdf43?utm_source=social&utm_campaign=achievements)
